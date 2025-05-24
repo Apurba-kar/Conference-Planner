@@ -17,10 +17,3 @@ An interactive web app for planning business conferences — choose venue rooms,
 - CSS (custom or framework)
 - Git & GitHub
 
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/Apurba-kar/Conference-Planner.git
-cd Conference-Planner
-npm install
-npm run dev
